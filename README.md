@@ -7,8 +7,8 @@ I'm Sanjana Vijayakumar Nambiar, a passionate junior in Computer Science at New 
   - Relevant Courses: Data Structures and Algorithms, Machine Learning, Processing Big Data (Hadoop, Spark), and more.
 
 #### 💻 Technical Skills
-- **Programming Languages:** Python, C++, Go
-- **Web Development:** HTML5, CSS3, Django, Bootstrap
+- **Programming Languages:** Python, C++, Go, VHDL, p5js
+- **Web Development:** HTML5, CSS3, Django, Bootstrap, Flask
 - **Big Data Tools:** Hadoop, HiveQL, Presto, Spark
 - **Tools:** Google Data-Proc, Kali Linux, Unity3D, MATLAB
 - **Servers:** Windows 10, MacOS, Linux (Ubuntu, Kali)
