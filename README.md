@@ -21,7 +21,6 @@ I'm Sanjana Vijayakumar Nambiar, a passionate junior in Computer Science at New 
 #### 🤖 Hackathons &  🏆 Competitions
 - NYUAD Quantum Computing Hackathon (2023)
   - Second-place winning team (Qatrah) working on an efficient water distribution system using quantum computing.
-  
 - CSAW’22 Annual Cybersecurity Games and Conference
   - Hack My Robot Competition Finalist, exploiting vulnerabilities using Kali Linux.
 
