@@ -33,7 +33,7 @@ I'm Sanjana Vijayakumar Nambiar, a passionate junior in Computer Science at New 
 - Learning everything 📚
 
 #### 📫 Connect with Me
-- LinkedIn [Sanjana Nambiar]((https://www.linkedin.com/in/sanjana-nambiar-3a9322224/))
+- LinkedIn [Sanjana Nambiar](https://www.linkedin.com/in/sanjana-nambiar-3a9322224/)
 - Email: svn9705@nyu.edu
 
 Feel free to explore my repositories and connect with me! 😄
