@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 I'm Sanjana Vijayakumar Nambiar, a passionate junior in Computer Science at New York University. I love diving into the world of data science and machine learning to extract valuable insights from complex datasets. Here's a glimpse into my technical journey:
 
 #### 🎓 Education
@@ -28,12 +27,6 @@ I'm Sanjana Vijayakumar Nambiar, a passionate junior in Computer Science at New 
 - Communications Officer at Melting Pot, NYUAD.
 - Sustainability Committee Member at Undergraduate Student Govt, NYU.
 
-#### 🌱 Currently
-- Working on something cool 🚀
-- Learning everything 📚
-
 #### 📫 Connect with Me
 - LinkedIn [Sanjana Nambiar](https://www.linkedin.com/in/sanjana-nambiar-3a9322224/)
 - Email: svn9705@nyu.edu
-
-Feel free to explore my repositories and connect with me! 😄
