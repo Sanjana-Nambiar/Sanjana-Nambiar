@@ -1,16 +1,15 @@
 ### Hi there 👋
-I'm Sanjana Vijayakumar Nambiar, a passionate junior in Computer Science at New York University. I love diving into the world of data science and machine learning to extract valuable insights from complex datasets. Here's a glimpse into my technical journey:
+I'm Sanjana Vijayakumar Nambiar, a passionate rising senior in Computer Science at New York University. I love diving into the world of data science and machine learning to extract valuable insights from complex datasets. Here's a glimpse into my technical journey:
 
 #### 🎓 Education
 - Bachelor’s in Computer Science, NYU (May 2025)
-  - Relevant Courses: Data Structures and Algorithms, Machine Learning, Processing Big Data (Hadoop, Spark), and more.
+  - Relevant Courses: Data Structures and Algorithms, Computer System Organization, Operating Systems, Human Centered Data Science, Projects and Programming for Data Science, Introduction Machine Learning, Applied Machine Learning, Processing Big Data (Hadoop, Spark), Software Engineering, Introduction to Computer Security and Cryptography.
 
 #### 💻 Technical Skills
-- **Programming Languages:** Python, C++, Go, VHDL, p5js
+- **Programming Languages:** Python, C++, Go, VHDL, p5js, MATLAB
 - **Web Development:** HTML5, CSS3, Bootstrap, Flask
 - **Big Data Tools:** Hadoop, HiveQL, Presto, Spark
-- **Tools:** Google Data-Proc, Kali Linux, Unity3D, MATLAB
-- **Servers:** Windows 10, MacOS, Linux (Ubuntu, Kali)
+- **Tools:** Google Data-Proc, Kali Linux, Unity3D 
 
 #### 🚀 Work Experience
 - **ACCESS Research Assistant - IoT Environmental Station**
