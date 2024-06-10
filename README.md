@@ -3,7 +3,7 @@ I'm Sanjana Vijayakumar Nambiar, a passionate rising senior in Computer Science 
 
 #### 🎓 Education
 - Bachelor’s in Computer Science, NYU (May 2025)
-  - Relevant Courses: Data Structures and Algorithms, Computer System Organization, Operating Systems, Human Centered Data Science, Projects and Programming for Data Science, Introduction Machine Learning, Applied Machine Learning, Processing Big Data (Hadoop, Spark), Software Engineering, Introduction to Computer Security and Cryptography.
+  - Relevant Courses: Data Structures and Algorithms, Computer System Organization, Operating Systems, Human Centered Data Science, Projects and Programming for Data Science, Introduction to Machine Learning, Applied Machine Learning, Processing Big Data (Hadoop, Spark), Software Engineering, Introduction to Computer Security and Cryptography.
 
 #### 💻 Technical Skills
 - **Programming Languages:** Python, C++, Go, VHDL, p5js, MATLAB
@@ -12,13 +12,15 @@ I'm Sanjana Vijayakumar Nambiar, a passionate rising senior in Computer Science 
 - **Tools:** Google Data-Proc, Kali Linux, Unity3D 
 
 #### 🚀 Work Experience
+- **LetsRISE Academy - Data Engineer Intern**
+  -  Leading the development of admin and user dashboards 
 - **ACCESS Research Assistant - IoT Environmental Station**
   - Designed and deployed environmental stations involving hardware (Raspberry Pi 4) and software integration.
   - Pioneered cellular connectivity for real-time monitoring in remote locations.
 
 #### 🤖 Hackathons &  🏆 Competitions
 - NYUAD Quantum Computing Hackathon (2023)
-  - Second-place winning team (Qatrah) working on an efficient water distribution system using quantum computing.
+  - The second-place winning team (Qatrah) is working on an efficient water distribution system using quantum computing.
 - CSAW’22 Annual Cybersecurity Games and Conference
   - Hack My Robot Competition Finalist, exploiting vulnerabilities using Kali Linux.
 
