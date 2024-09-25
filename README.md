@@ -12,11 +12,16 @@ I'm Sanjana Vijayakumar Nambiar, a passionate rising senior in Computer Science 
 - **Tools:** Google Data-Proc, Kali Linux, Unity3D 
 
 #### 🚀 Work Experience
+- **Research Assistant - DICE Lab (Tandon School of Engineering, New York)**
+  -  Researching an integration of LLM models and AI security
 - **LetsRISE Academy - Software Engineer Intern**
   -  Leading the development of admin and user dashboards 
 - **ACCESS Research Assistant - IoT Environmental Station**
   - Designed and deployed environmental stations involving hardware (Raspberry Pi 4) and software integration.
   - Pioneered cellular connectivity for real-time monitoring in remote locations.
+
+### Publication 
+- ["Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking"](https://arxiv.org/abs//2409.15268)
 
 #### 🤖 Hackathons &  🏆 Competitions
 - NYUAD Quantum Computing Hackathon (2023)
