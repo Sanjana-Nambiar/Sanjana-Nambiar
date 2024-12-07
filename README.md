@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 I'm Sanjana Vijayakumar Nambiar, a passionate rising senior in Computer Science at New York University. I love diving into the world of data science and machine learning to extract valuable insights from complex datasets. Here's a glimpse into my technical journey:
 
 #### 🎓 Education
@@ -36,3 +36,4 @@ I'm Sanjana Vijayakumar Nambiar, a passionate rising senior in Computer Science 
 #### 📫 Connect with Me
 - LinkedIn [Sanjana Nambiar](https://www.linkedin.com/in/sanjana-nambiar-3a9322224/)
 - Email: svn9705@nyu.edu
+- [Website](https://sanjana-nambiar.github.io/)
