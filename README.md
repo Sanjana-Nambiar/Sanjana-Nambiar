@@ -1,39 +1,59 @@
-### Hi there 👋 
-I'm Sanjana Vijayakumar Nambiar, a passionate rising senior in Computer Science at New York University. I love diving into the world of data science and machine learning to extract valuable insights from complex datasets. Here's a glimpse into my technical journey:
+# 👋 Hi, I’m Sanjana Nambiar
 
-#### 🎓 Education
-- Bachelor’s in Computer Science, NYU (May 2025)
-  - Relevant Courses: Data Structures and Algorithms, Computer System Organization, Operating Systems, Human Centered Data Science, Projects and Programming for Data Science, Introduction to Machine Learning, Applied Machine Learning, Processing Big Data (Hadoop, Spark), Software Engineering, Introduction to Computer Security and Cryptography.
+**AI Security • LLM Research • AI Product Engineering**
 
-#### 💻 Technical Skills
-- **Programming Languages:** Python, C++, Go, VHDL, p5js, MATLAB
-- **Web Development:** HTML5, CSS3, Bootstrap, Flask
-- **Big Data Tools:** Hadoop, HiveQL, Presto, Spark
-- **Tools:** Google Data-Proc, Kali Linux, Unity3D 
+Computer Science graduate from NYU Abu Dhabi with minors in Applied Mathematics and Engineering. I work at the intersection of LLM security, robustness, and applied AI systems, building things that are both research-grade and production-ready. Published at **ICLR 2025** and **SiMLA (ACNS) 2025**. I like turning messy model behavior into measurable risk and then fixing it.
 
-#### 🚀 Work Experience
-- **Research Assistant - DICE Lab (Tandon School of Engineering, New York)**
-  -  Researching an integration of LLM models and AI security
-- **LetsRISE Academy - Software Engineer Intern**
-  -  Leading the development of admin and user dashboards 
-- **ACCESS Research Assistant - IoT Environmental Station**
-  - Designed and deployed environmental stations involving hardware (Raspberry Pi 4) and software integration.
-  - Pioneered cellular connectivity for real-time monitoring in remote locations.
+## 🧠 Focus Areas
+- LLM Security & Jailbreak Defense  
+- AI Alignment & Robustness  
+- Adversarial Prompt Analysis  
+- GenAI Agent Workflows  
+- Applied ML + Data Systems  
+- AI Product & Decision Tools  
 
-### Publication 
-- ["Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking"](https://arxiv.org/abs//2409.15268)
+## 🎓 Education
+Bachelor's in Computer Science
+New York University Abu Dhabi (2025)
+Minors: Applied Mathematics, Engineering
 
-#### 🤖 Hackathons &  🏆 Competitions
-- NYUAD Quantum Computing Hackathon (2023)
-  - The second-place winning team (Qatrah) is working on an efficient water distribution system using quantum computing.
-- CSAW’22 Annual Cybersecurity Games and Conference
-  - Hack My Robot Competition Finalist, exploiting vulnerabilities using Kali Linux.
+Relevant coursework includes:
+- Deep Learning & Generative AI Systems  
+- Applied Machine Learning  
+- Big Data Analytics (Hadoop, Spark)  
+- Computer Security & Cryptography  
+- Software Engineering  
 
-#### 🌐 Leadership Experiences
-- Communications Officer at Melting Pot, NYUAD.
-- Sustainability Committee Member at Undergraduate Student Govt, NYU.
+## 📄 Publications
+**Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking**  
+ICLR 2025 — Poster [Link](https://arxiv.org/abs/2409.15268)
 
-#### 📫 Connect with Me
-- LinkedIn [Sanjana Nambiar](https://www.linkedin.com/in/sanjana-nambiar-3a9322224/)
-- Email: svn9705@nyu.edu
-- [Website](https://sanjana-nambiar.github.io/)
+**JailFact-Bench: Jailbreak Attacks vs Hallucinations in LLMs**  
+SiMLA (ACNS Workshops) 2025 — Springer LNCS [Link](https://link.springer.com/chapter/10.1007/978-3-032-01823-6_2)
+
+## 💼 Experience
+Junior Research Scientist: CITIES Research Institute (Abu Dhabi) *(Feb 2026 – Present)*  
+AI Product Researcher: Trevex *(Aug 2025 – Sep 2025)*  
+Research Assistant (AI / LLM Security): CCSAD CSP Lab *(Feb 2024 – Jul 2025)*  
+Software Engineer Intern: LetsRISE *(May 2024 – Aug 2024)*  
+Research Assistant (LLM Alignment & Robustness): NYU Tandon DICE Lab *(Jul 2024 – Jan 2025)*  
+Research Assistant (IoT Systems): ACCESS Lab *(Feb 2023 – May 2024)*  
+
+## 🛠 Tech Stack
+**Languages**       : Python • C++ • Go • JavaScript • MATLAB • VHDL  
+**ML / AI**         : PyTorch • HuggingFace • LoRA Fine-Tuning • LLM Evaluation • Synthetic Data • WandB  
+**Data & Systems**  : Spark • Hadoop • HiveQL • Presto • PostgreSQL • HPC • Slurm   
+**Web & Product**   : Flask • Node.js • Dashboards • API Systems • Cloud Deployments  
+**Hardware / IoT**  : Raspberry Pi • Sensors • Embedded Systems  
+
+## 🏆 Highlights
+- 🥈 NYUAD Hackathon for Social Good — Quantum optimization project  
+- 🛡 CSAW Cybersecurity Games Finalist  
+- 🌍 International research presentations  
+- 🧪 AI Safety Technical Training — Bluedot Impact  
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/sanjanavnambiar/) • [Website](https://sanjana-nambiar.github.io/) • [Email](sanjana.nambiar04@gmail.com)  
+
+## ⚡ Current Interests
+LLM safety tooling • Robust ML systems • AI product strategy • Secure GenAI deployment • Evaluation benchmarks
