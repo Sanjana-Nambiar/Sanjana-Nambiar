@@ -25,11 +25,11 @@ Relevant coursework includes:
 - Software Engineering  
 
 ## 📄 Publications
-**Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking**  
-ICLR 2025 — Poster [Link](https://arxiv.org/abs/2409.15268)
-
 **JailFact-Bench: Jailbreak Attacks vs Hallucinations in LLMs**  
 SiMLA (ACNS Workshops) 2025 — Springer LNCS [Link](https://link.springer.com/chapter/10.1007/978-3-032-01823-6_2)
+
+**Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking**  
+ICLR 2025 — Poster [Link](https://arxiv.org/abs/2409.15268)
 
 ## 💼 Experience
 Junior Research Scientist: CITIES Research Institute (Abu Dhabi) *(Feb 2026 – Present)*  
@@ -47,9 +47,8 @@ Research Assistant (IoT Systems): ACCESS Lab *(Feb 2023 – May 2024)*
 **Hardware / IoT**  : Raspberry Pi • Sensors • Embedded Systems  
 
 ## 🏆 Highlights
-- 🥈 NYUAD Hackathon for Social Good — Quantum optimization project  
-- 🛡 CSAW Cybersecurity Games Finalist  
-- 🌍 International research presentations  
+- 🥈 NYUAD Hackathon for Social Good: Quantum optimization project  
+- 🛡 CSAW Cybersecurity Games Finalist   
 - 🧪 AI Safety Technical Training — Bluedot Impact  
 
 ## 📫 Connect
